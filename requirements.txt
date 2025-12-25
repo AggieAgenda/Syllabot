@@ -1,0 +1,15 @@
+# Core Dependencies
+tensorflow>=2.13.0
+numpy>=1.24.0
+
+# PDF Processing
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# Natural Language Processing
+transformers>=4.30.0
+torch>=2.0.0
+
+# Additional utilities
+python-dateutil>=2.8.2
+regex>=2023.6.3
