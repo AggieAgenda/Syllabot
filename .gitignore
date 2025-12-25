@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Model files (large files)
+*.h5
+*.pb
+*.ckpt
+*.pth
+*.bin
+saved_model/
+best_date_model.h5
+
+# Data files
+*.pdf
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
